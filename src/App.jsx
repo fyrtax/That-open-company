@@ -1,9 +1,11 @@
+import {ThatOpen2} from "./ThatOpen2.jsx";
+
 function App() {
-return (
-  <>
-    <that-open-company />
-  </>
-)
+    return (
+        <>
+            <ThatOpen2/>
+        </>
+    )
 }
 
 export default App
