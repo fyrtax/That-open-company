@@ -1,9 +1,9 @@
-import {ThatOpen2} from "./ThatOpen2.jsx";
+import {ThatOpen3} from "./ThatOpen3.jsx";
 
 function App() {
     return (
         <>
-            <ThatOpen2/>
+            <ThatOpen3/>
         </>
     )
 }
